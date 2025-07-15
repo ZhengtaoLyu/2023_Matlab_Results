@@ -83,13 +83,6 @@ This project is designed for:
 
 ---
 
-## 📽️ Demo Snapshots
-
-### Predator-Prey Flocking System
-![Animation Frame Sample](./images/sample_frame.png) <!-- Replace with actual image -->
-
----
-
 ## ⚙️ Setup & Run
 
 ```bash
